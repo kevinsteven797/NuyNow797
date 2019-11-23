@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "595078365494",
+    "firebase_url": "https://nuynow7.firebaseio.com",
+    "project_id": "nuynow7",
+    "storage_bucket": "nuynow7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595078365494:android:926eea00dbf4efd3517397",
+        "android_client_info": {
+          "package_name": "com.example.nuynow7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595078365494-hv6646k2civ2mm07qk438j7ngh1r6e6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nuynow7",
+            "certificate_hash": "5f36552ef85d2f93b592aab7c29a106739bd99f3"
+          }
+        },
+        {
+          "client_id": "595078365494-iohmks3tktgpo3r692h6a89mo2oi13n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgmXjecLSZMP8_J89H1ykl31RSJGdL5ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595078365494-iohmks3tktgpo3r692h6a89mo2oi13n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
